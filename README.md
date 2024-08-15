@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif)
+![Banner](https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif)
+
 
 <h1 align="center">Hi 👋, I'm ELZIN SELVA M</h1>
 <h3 align="center">a guy thinking out of the box to find stuffs. I'm a Chaos Computer Engineering Enthusiast, and Code lover☁️ 😄</h3>
