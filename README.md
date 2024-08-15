@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello Fellow < Developers/ >! This is ELZIN💻🧑 </h1>
-<h3 align="center">a guy thinking out of the box to find stuffs. I'm a Chaos Computer Engineering Enthusiast, and Code lover☁️ 😄</h3>
+<h3 align="center">Hi there 👋🏾 This is Elzin!,a guy thinking out of the box to find stuffs. I'm a Chaos Computer Engineering Enthusiast, and Code lover☁️ 😄</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **My Own Personal Portfolio Creation project.**
