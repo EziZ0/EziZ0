@@ -1,7 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif)
 
 
-<h1 align="center">Hi 👋, I'm ELZIN SELVA M</h1>
+<h1 align="center">Hello Fellow < Developers/ >! This is ELZIN💻🧑 </h1>
 <h3 align="center">a guy thinking out of the box to find stuffs. I'm a Chaos Computer Engineering Enthusiast, and Code lover☁️ 😄</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
